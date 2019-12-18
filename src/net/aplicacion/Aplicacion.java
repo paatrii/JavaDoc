@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * clase principa del sistema
+ * <p> <a href="https://github.com">Ver proyecto en Github</a>
  * @author patri
  *
  */
@@ -12,6 +13,7 @@ public class Aplicacion {
 	
 	/**
 	 * este es el metodo principal
+	 * <h2>Aplicación<h2>
 	 * @param args
 	 */
 	public static void main(String args[]) {
