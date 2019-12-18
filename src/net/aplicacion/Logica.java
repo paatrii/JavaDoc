@@ -1,5 +1,6 @@
 package net.aplicacion;
 
+//importamos la clase Scanner
 import java.util.Scanner;
 
 
@@ -14,6 +15,7 @@ import java.util.Scanner;
  *
  */
 
+//creamos una clase publica 
 public class Logica {
 	
 	/**
@@ -23,9 +25,11 @@ public class Logica {
 	
 	public void sumar() {
 		
+		//introducimos las variables 
 		int num1=5;
 		int num2=6;
 		
+		// utilizamos syso para que nos muestre el resultado en pantalla 
 		System.out.println((num1+num2));
 
 	}
