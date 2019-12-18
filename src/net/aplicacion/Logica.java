@@ -2,9 +2,14 @@ package net.aplicacion;
 
 import java.util.Scanner;
 
+
 /**
  * Esta clase define unos metodos basicos 
  * de logica matematica
+ *  <p> <a href="https://github.com">Ver proyecto en Github</a>
+ * @version 1.0
+ * @since 0.3
+ * @see Aplicacion
  * @author patri
  *
  */
@@ -13,6 +18,7 @@ public class Logica {
 	
 	/**
 	 * metodo que permite sumar dos numeros enteros 
+	 * <h2>Lógica<h2>
 	 */
 	
 	public void sumar() {
