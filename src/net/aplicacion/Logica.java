@@ -20,7 +20,7 @@ public class Logica {
 	
 	/**
 	 * metodo que permite sumar dos numeros enteros 
-	 * <h2>Lógica<h2>
+	 * <h2>Lógica</h2>
 	 */
 	
 	public void sumar() {

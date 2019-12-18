@@ -15,7 +15,7 @@ public class Aplicacion {
 	
 	/**
 	 * este es el metodo principal
-	 * <h2>Aplicación<h2>
+	 * <h2>Aplicación</h2>
 	 * @param args
 	 */
 	public static void main(String args[]) {
