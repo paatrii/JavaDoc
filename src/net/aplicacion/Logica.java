@@ -33,6 +33,12 @@ public class Logica {
 		
 		System.out.println((num1-num2));
 	}
+	/**
+	 * este metodo permite multiplicar dos numeros enteros
+	 * @param num1
+	 * @param num2
+	 * @return retorna un valor entero con el resultado de la operacion 
+	 */
 	
 	public int multiplicar(int num1, int num2) {
 		

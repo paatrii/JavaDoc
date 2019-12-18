@@ -2,8 +2,18 @@ package net.aplicacion;
 
 import java.util.Scanner;
 
+/**
+ * clase principa del sistema
+ * @author patri
+ *
+ */
+
 public class Aplicacion {
 	
+	/**
+	 * este es el metodo principal
+	 * @param args
+	 */
 	public static void main(String args[]) {
 		
 		Logica miLogica = new Logica();
